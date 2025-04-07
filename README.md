@@ -82,6 +82,10 @@
   One Piece is real.
 </p>
 
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=shivraj-roy&color=EB5939&style=flat-square" alt="Profile Views Counter" />
+</div>
+
 
 <!--
 **shivraj-roy/shivraj-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
