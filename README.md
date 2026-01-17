@@ -11,78 +11,135 @@
   }
 </style> -->
 
-<div align-items: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra Petch&pause=1000&color=EB5939&center=true&vCenter=true&width=435&lines=Yooo+.+.+.++!;A+Frontend+Developer+.+.+." alt="Typing SVG">
-  </a>
-</div>
+## ☺︎ Hi, I'm Shivraj...
 
-<hr style="height: 0.1px; background-color: #EB5939;"/>
+Developer who designs... Designer who codes... The line's blurry and I like it that way...
 
-<h6 align="center" style="color: #B7AB98;">Frameworks & Libraries</h6>
+I create web experiences where every scroll, click, and hover feels intentional... From interactive landing pages to AI-powered tools, I'm all about bridging the gap between "looks good" and "works well." React, TypeScript, GSAP, whatever makes the magic happen...
+
+---
+
+## ⚒︎ Currently Working On
+
+**• [Typifyy](https://typifyy.vercel.app)** - Enhancing the typing test experience with exciting new features and improvements...
+
+**• Portfolio Site** - Crafting a personal portfolio that reflects my approach to design and development, where every interaction tells a story...
+
+---
+
+## ⚙︎ Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="20%"><b>Languages & Frameworks</b></td>
+    <td width="80%">
+      <img src="https://img.shields.io/badge/HTML5-252422?style=for-the-badge&logo=html5&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/CSS3-252422?style=for-the-badge&logo=css3&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/JavaScript-252422?style=for-the-badge&logo=javascript&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/TypeScript-252422?style=for-the-badge&logo=typescript&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/React-252422?style=for-the-badge&logo=react&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Next.js-252422?style=for-the-badge&logo=next.js&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Node.js-252422?style=for-the-badge&logo=node.js&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Python-252422?style=for-the-badge&logo=python&logoColor=eb5e29" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Styling & Animation</b></td>
+    <td width="80%">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-252422?style=for-the-badge&logo=tailwind-css&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/GSAP-252422?style=for-the-badge&logo=greensock&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Framer_Motion-252422?style=for-the-badge&logo=framer&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Material_UI-252422?style=for-the-badge&logo=mui&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Mantine-252422?style=for-the-badge&logo=mantine&logoColor=eb5e29" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>State Management & Data Fetching</b></td>
+    <td width="80%">
+      <img src="https://img.shields.io/badge/Redux-252422?style=for-the-badge&logo=redux&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/TanStack_Query-252422?style=for-the-badge&logo=react-query&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/React_Hook_Form-252422?style=for-the-badge&logo=reacthookform&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/React_Router-252422?style=for-the-badge&logo=react-router&logoColor=eb5e29" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Databases & Backend</b></td>
+    <td width="80%">
+      <img src="https://img.shields.io/badge/MongoDB-252422?style=for-the-badge&logo=mongodb&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Firebase-252422?style=for-the-badge&logo=firebase&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Appwrite-252422?style=for-the-badge&logo=appwrite&logoColor=eb5e29" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Design & Creative Tools</b></td>
+    <td width="80%">
+      <img src="https://img.shields.io/badge/Figma-252422?style=for-the-badge&logo=figma&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Photoshop-252422?style=for-the-badge&logo=adobe-photoshop&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Illustrator-252422?style=for-the-badge&logo=adobe-illustrator&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/After_Effects-252422?style=for-the-badge&logo=adobe-after-effects&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Blender-252422?style=for-the-badge&logo=blender&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Procreate-252422?style=for-the-badge&logoColor=eb5e29" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Development Tools</b></td>
+    <td width="80%">
+      <img src="https://img.shields.io/badge/Git-252422?style=for-the-badge&logo=git&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/GitHub-252422?style=for-the-badge&logo=github&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/VS_Code-252422?style=for-the-badge&logo=visual-studio-code&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Postman-252422?style=for-the-badge&logo=postman&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/WordPress-252422?style=for-the-badge&logo=wordpress&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Webflow-252422?style=for-the-badge&logo=webflow&logoColor=eb5e29" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## ❄︎ Featured Project
+
+### **[Typifyy](https://typifyy.vercel.app)** 
+A modern typing test application featuring real-time WPM tracking, multiple game modes, performance analytics, and smooth animations...
+
+**[Test Your Speed](https://typifyy.vercel.app)** | **[Contribute](https://github.com/shivraj-roy/typifyy)**
+
+---
+
+## ✌︎ Let's Connect
+
+<table>
+  <thead>
+    <tr>
+      <th>∘ Website</th>
+      <th>∘ LinkedIn</th>
+      <th>∘ GitHub</th>
+      <th>∘ Twitter/X</th>
+      <th>∘ Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">Coming Soon</a></td>
+      <td><a href="https://www.linkedin.com/in/shivraj-roy10/">linkedin.com/in/shivraj-roy10</a></td>
+      <td><a href="https://github.com/shivraj-roy">github.com/shivraj-roy</a></td>
+      <td><a href="https://x.com/shivraj_roy10">@shivraj_roy10</a></td>
+      <td><a href="mailto:shivrajroy78@gmail.com">shivrajroy78@gmail.com</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/react-011E36.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
-  <img src="https://img.shields.io/badge/Mantine-BEE0FD?style=for-the-badge&logo=Mantine&logoColor=339af0" alt="Mantine">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Git">
-  <!-- <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&pause=1000&color=EB5E29&center=true&vCenter=true&width=435&lines=Yooo+.+.+.+!;See+You+Soon+.+.+.)](https://git.io/typing-svg)
+
 </div>
 
-<hr style="height: 0.1px; background-color: #EB5939;"/>
 
-<h6 align="center" style="color: #B7AB98;">Tools</h6>
+> ❤︎ Fun Fact ⇒ **One Piece is real...**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,figma,vscode,photoshop,illustrator" />
-    <img src="https://skillicons.dev/icons?i=aftereffects,blender,wordpress,webflow" />
-  </a>
-</p>
-<hr style="height: 0.1px; background-color: #EB5939;"/>
-
-<h6 align="center" style="color: #B7AB98;">Contact Me</h6>
-
-<p align="center">
-  <a href="mailto:shivrajroy78@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/shivraj-roy10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-  </a>
-  <!-- <a href="mailto:shivrajroy78@gmail.com">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-  </a> -->
-  <!-- <a href="mailto:shivrajroy78@gmail.com">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/>
-  </a> -->
-  <a href="https://x.com/shivraj_roy10" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"/>
-  </a>
-</p>
-
-<hr style="height: 0.1px; background-color: #EB5939; border: none;"/>
-
-<h6 align="center" style="color: #EB5939; font-family: 'Advent Pro', sans-serif;">Fact</h6>
-
-<p align="center" style="color: #EB5939; font-family: 'Advent Pro', sans-serif; font-size: 16px;">
-  One Piece is real.
-</p>
-
-<div align="right">
+<div align="left">
     <img src="https://komarev.com/ghpvc/?username=shivraj-roy&color=EB5939&style=flat-square" alt="Profile Views Counter" />
 </div>
 
