@@ -50,6 +50,7 @@ I create web experiences where every scroll, click, and hover feels intentional.
       <img src="https://img.shields.io/badge/GSAP-252422?style=for-the-badge&logo=greensock&logoColor=eb5e29" />
       <img src="https://img.shields.io/badge/Framer_Motion-252422?style=for-the-badge&logo=framer&logoColor=eb5e29" />
       <img src="https://img.shields.io/badge/Material_UI-252422?style=for-the-badge&logo=mui&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-252422?logo=shadcnui&logoColor=eb5e29&style=for-the-badge">
       <img src="https://img.shields.io/badge/Mantine-252422?style=for-the-badge&logo=mantine&logoColor=eb5e29" />
     </td>
   </tr>
@@ -68,6 +69,9 @@ I create web experiences where every scroll, click, and hover feels intentional.
       <img src="https://img.shields.io/badge/MongoDB-252422?style=for-the-badge&logo=mongodb&logoColor=eb5e29" />
       <img src="https://img.shields.io/badge/Firebase-252422?style=for-the-badge&logo=firebase&logoColor=eb5e29" />
       <img src="https://img.shields.io/badge/Appwrite-252422?style=for-the-badge&logo=appwrite&logoColor=eb5e29" />
+     <img src="https://img.shields.io/badge/Directus-252422?logo=directus&logoColor=eb5e29&style=for-the-badge">
+     <img src="https://img.shields.io/badge/MySQL-252422?logo=mysql&logoColor=eb5e29&style=for-the-badge">
+     <img src="https://img.shields.io/badge/Supabase-252422?logo=supabase&logoColor=eb5e29&style=for-the-badge">
     </td>
   </tr>
   <tr>
@@ -86,7 +90,10 @@ I create web experiences where every scroll, click, and hover feels intentional.
     <td width="80%">
       <img src="https://img.shields.io/badge/Git-252422?style=for-the-badge&logo=git&logoColor=eb5e29" />
       <img src="https://img.shields.io/badge/GitHub-252422?style=for-the-badge&logo=github&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Cursor-252422?logo=cursor&logoColor=eb5e29&style=for-the-badge">
       <img src="https://img.shields.io/badge/VS_Code-252422?style=for-the-badge&logo=visual-studio-code&logoColor=eb5e29" />
+      <img src="https://img.shields.io/badge/Vercel-252422?logo=vercel&logoColor=eb5e29&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Model%20Context%20Protocol-252422?logo=modelcontextprotocol&logoColor=eb5e29&style=for-the-badge">
       <img src="https://img.shields.io/badge/Postman-252422?style=for-the-badge&logo=postman&logoColor=eb5e29" />
       <img src="https://img.shields.io/badge/WordPress-252422?style=for-the-badge&logo=wordpress&logoColor=eb5e29" />
       <img src="https://img.shields.io/badge/Webflow-252422?style=for-the-badge&logo=webflow&logoColor=eb5e29" />
