@@ -103,12 +103,13 @@ I create web experiences where every scroll, click, and hover feels intentional.
 
 ---
 
-## ❄︎ Featured Project
+## ❄︎ Featured Projects
 
-### **[Typifyy](https://typifyy.vercel.app)** 
-A modern typing test application featuring real-time WPM tracking, multiple game modes, performance analytics, and smooth animations...
-
-**[Test Your Speed](https://typifyy.vercel.app)** | **[Contribute](https://github.com/shivraj-roy/typifyy)**
+| | |
+|---|---|
+| **[Typifyy](https://typifyy.vercel.app)** | **[DotCal](https://www.dotcal.in)** |
+| A modern typing test application featuring real-time WPM tracking, multiple game modes, performance analytics, and smooth animations. | Minimal wallpaper to track your year, goals, and journeys. Create dynamic dot‑grid wallpapers that auto-update daily to visualize your progress. |
+| **[Test Your Speed](https://typifyy.vercel.app)** · **[Contribute](https://github.com/shivraj-roy/typifyy)** | **[Visit](https://www.dotcal.in)** |
 
 ---
 
