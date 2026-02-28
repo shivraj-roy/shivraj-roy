@@ -23,8 +23,6 @@ I create web experiences where every scroll, click, and hover feels intentional.
 
 **• [Typifyy](https://typifyy.vercel.app)** - Enhancing the typing test experience with exciting new features and improvements...
 
-**• Portfolio Site** - Crafting a personal portfolio that reflects my approach to design and development, where every interaction tells a story...
-
 ---
 
 ## ⚙︎ Tech Stack
@@ -127,7 +125,7 @@ I create web experiences where every scroll, click, and hover feels intentional.
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">Coming Soon</a></td>
+      <td><a href="https://www.shivrajroy.in?utm_source=github">shivrajroy.in</a></td>
       <td><a href="https://www.linkedin.com/in/shivraj-roy10/">linkedin.com/in/shivraj-roy10</a></td>
       <td><a href="https://github.com/shivraj-roy">github.com/shivraj-roy</a></td>
       <td><a href="https://x.com/shivraj_roy10">@shivraj_roy10</a></td>
