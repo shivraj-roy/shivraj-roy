@@ -15,7 +15,7 @@
  
 **¹⁄₂ Design Engineer · Engineering meets Design**
  
-I’m also an agent orchestrator, and I love getting the details just right...
+I’m also an agent <img src="assets/icons/agent.svg" height="20" align="center" /> orchestrator, and I love getting the details <img src="assets/icons/ai-paintbrush.svg" height="20" align="center" /> just right...
  
 ---
 
@@ -42,7 +42,11 @@ I’m also an agent orchestrator, and I love getting the details just right...
     <td width="30%" nowrap><a href="https://www.raycast.com/shivraj-roy/design-skills"><img src="https://img.shields.io/badge/Design_Skills-252422?style=for-the-badge" alt="Design Skills" /></a></td>
     <td width="70%">Curated design skills and tokens, one keystroke away.</td>
   </tr>
+  
 </table>
+
+
+Also poking at component interactions over on [my arts page](https://www.shivrajroy.in/arts?utm_source=github)...
  
 ---
 
